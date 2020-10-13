@@ -1,7 +1,7 @@
 # feature_engineering
 
 Link of dataset:
-https://www.kaggle.com/aditya1702/mercedes-benz-data-exploration/data
+https://www.kaggle.com/yogeerp/mercedes
 
 # One Hot Encoding:
 This is the technique use to transform categorical data (values) in integer,
