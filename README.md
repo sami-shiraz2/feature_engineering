@@ -1,7 +1,8 @@
 # feature_engineering
 
-Link of dataset:
+Link of datasets:
 https://www.kaggle.com/yogeerp/mercedes
+kaggle competitions download -c titanic
 
 # One Hot Encoding:
 This is the technique use to transform categorical data (values) in integer,
